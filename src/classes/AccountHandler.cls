@@ -1,6 +1,6 @@
 public class AccountHandler {
     public static void insertAccount(integer n){
-        list<Account>addAccounts=new list<Account>();
+        list<Account>addAccounts=new list<Account123>();
         while(n<3){
           // create a new account
           Account store= new Account();
